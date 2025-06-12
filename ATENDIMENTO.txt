@@ -1,0 +1,75 @@
+serie - interna do sistema
+serie fiscal- 
+
+5 tipos para dar entrada em notas
+
+como consultar; consulta mv de prod. diferente de consultas.
+
+necessidade de compras
+
+CONTAS A PAGAR
+
+provisionamento , despesa diversa, fica em vermelho no relátorio
+previsão de pedido, relacionado a compra
+vinculado a um produto
+
+dar baixa pela baixa de parcela
+posso fazer pelo agendamento de parcelas
+ou baixa de pcr por dado (mais comum)
+
+baixa de parcelas por fornecedor pode ser pago mais de uma parcela
+
+negociar parcelas
+agrupamento de parcelas
+
+remover parcela já paga(estornar)
+
+ATENDIMENTO
+2 tipos de pré venda
+
+
+ATENDIMENTO TELEVENDAS - LINHA VERMELHA = 5
+cliente fora da loja
+cancelamento manualmente, sem prazo determinado
+
+
+ATENDIMENTO BALCÃO = 3
+REGRA PSIPF
+tem validade de cancelamento ,48hr
+
+
+AS 2 É UM TIPO DE RESERVA
+
++2
+PV = WEB = ADSCORE
+PV= ONLINE = ECOMMERCE
+''
+RESERVAM ESTOQUE
+
+ENTREGA FUTURA = CLIENTE SEM GRADE
+CONDICIONAL = VESTUARIO
+
+ORÇAMENTOS PODEM VIRAR PRÉ VENDA
+
+PARA LIBERAR TIPO DE PRÉ VENDA
+--CADASTRO DE LOJA--
+
+CONDICIONAL PRÉ VENDA/MANUTENÇÃO DE CND
+-- fica gravado por número de cliente o que foi enviado--
+
+FAZER DEVOLUÇÃO PELA CONDICIONAL PRÉ VENDA
+
+SOLICITAÇÃO DE TRANSFERENCIA
+
+NÃO VENDA
+motivos para que não foi vendido
+faz conversão de venda e compara
+
+CADASTRO DE CLIENTE
+
+RELATORIO DE CONDICIONAL
+info de condicional
+
+
+
+
